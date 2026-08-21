@@ -1,3 +1,3 @@
 # Test merge
 
-Test 2
+Test 4
